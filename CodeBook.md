@@ -1,6 +1,6 @@
 # Code book for Coursera *Getting and Cleaning Data* - Course Croject
 
-The data set that this code book pertains to is located in the `tidy_data.csv` file of this repository.
+The data set that this code book pertains to is located in the `tidy_data.txt` file of this repository.
 
 See the `README.md` file of this repository for background information on this data set.
 
